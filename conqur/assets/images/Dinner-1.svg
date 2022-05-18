@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16.998" height="16.087" viewBox="0 0 16.998 16.087">
+  <g id="Dinner" transform="translate(-215.606 -488.855)">
+    <path id="Icon_awesome-utensils" data-name="Icon awesome-utensils" d="M4.821.512c.019.153.373,3.068.373,4.182a3.747,3.747,0,0,1-1.855,3.4l.423,7.773c.016.445-.216.779-.536.779H1.938c-.318,0-.5-.373-.488-.821L1.855,8.09A3.746,3.746,0,0,1,0,4.693C0,3.576.355.664.373.512c.074-.659.865-.7.925,0v4.62c.03.11.619.1.64,0,.032-.821.254-4.52.256-4.6.077-.675.8-.656.879.019,0,.088.12,3.763.152,4.584.021.1.642.11.67,0V.547C3.956-.154,4.747-.148,4.821.512Z" transform="translate(228.625 488.855) rotate(40)" fill="#6dd179"/>
+    <rect id="Rectangle_2229" data-name="Rectangle 2229" width="2.712" height="2.8" transform="translate(224.209 496.564) rotate(43)" fill="#fff"/>
+    <path id="Icon_awesome-utensils-2" data-name="Icon awesome-utensils" d="M1.769,9.677,1.09,15.731c-.027.449.524.7.837.7h.656c.3,0,.537-.343.537-.77V.77C3.12.347,2.881,0,2.583,0,.737,0-1.734,5.749,1.769,9.677Z" transform="translate(215.606 491.799) rotate(-40)" fill="#6dd179"/>
+  </g>
+</svg>

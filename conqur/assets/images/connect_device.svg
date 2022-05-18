@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="315.756" height="166.95" viewBox="0 0 315.756 166.95">
+  <g id="connecft-device" transform="translate(-108 -116.991)">
+    <path id="Path_2943" data-name="Path 2943" d="M627.087,651.5c.022,25.787-51.123,17.855-113.736,17.909s-112.985,8.074-113.007-17.713,51.1-31.439,113.718-31.493S627.065,625.708,627.087,651.5Z" transform="translate(-260.588 -386.685)" fill="rgba(237,91,91,0.5)"/>
+    <path id="Path_2835" data-name="Path 2835" d="M17.061,3h47.8c5.28,0,9.561,6.017,9.561,13.44V123.956c0,7.423-4.28,13.44-9.561,13.44h-47.8c-5.28,0-9.561-6.017-9.561-13.44V16.44C7.5,9.017,11.78,3,17.061,3Z" transform="translate(217.862 124.412)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <path id="Path_2944" data-name="Path 2944" d="M17.061,3h47.8c5.28,0,9.561,6.017,9.561,13.44V123.956c0,7.423-4.28,13.44-9.561,13.44h-47.8c-5.28,0-9.561-6.017-9.561-13.44V16.44C7.5,9.017,11.78,3,17.061,3Z" transform="translate(217.862 124.412)" fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <circle id="Ellipse_344" data-name="Ellipse 344" cx="2.5" cy="2.5" r="2.5" transform="translate(257 247)"/>
+    <path id="Path_2946" data-name="Path 2946" d="M0,.734s36.134-4.7,61.938,9.67" transform="translate(274.124 160.419) rotate(-21)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1.5"/>
+    <path id="Path_2947" data-name="Path 2947" d="M5.794.026,3.77,0,4.6,4.048,0,5.741,2.115,6.808,7.244,5.347Z" transform="translate(333.515 146.957) rotate(-21)"/>
+    <ellipse id="Ellipse_341" data-name="Ellipse 341" cx="30.279" cy="30.884" rx="30.279" ry="30.884" transform="translate(344.678 116.991)" fill="#7c7c7c" opacity="0.9"/>
+    <path id="Icon_feather-bluetooth" data-name="Icon feather-bluetooth" d="M9.75,8.716,24.182,23.148l-7.216,7.216V1.5l7.216,7.216L9.75,23.148" transform="translate(241.818 178.678)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <rect id="Rectangle_2322" data-name="Rectangle 2322" width="315.756" height="1.18" transform="translate(108 282.705)" fill="#3f3d56"/>
+    <rect id="Rectangle_2328" data-name="Rectangle 2328" width="37" height="5" rx="2.5" transform="translate(241 127)"/>
+    <path id="Icon_material-watch" data-name="Icon material-watch" d="M24.75,15a10.224,10.224,0,0,0-3.562-7.837L20.063,0H10.688L9.574,7.163A10.175,10.175,0,0,0,6,15a10.175,10.175,0,0,0,3.574,7.838L10.688,30h9.375l1.125-7.162A10.224,10.224,0,0,0,24.75,15ZM8.344,15a7.283,7.283,0,0,1,7.031-7.5A7.283,7.283,0,0,1,22.406,15a7.283,7.283,0,0,1-7.031,7.5A7.283,7.283,0,0,1,8.344,15Z" transform="translate(389.956 133.462) rotate(90)" fill="#fff"/>
+  </g>
+</svg>
