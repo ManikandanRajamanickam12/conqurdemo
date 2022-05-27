@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="Group_2537" data-name="Group 2537" transform="translate(-55 -544)">
+    <path id="Icon_material-help" data-name="Icon material-help" d="M11,3a8,8,0,1,0,8,8A8,8,0,0,0,11,3Zm.8,13.6H10.2V15h1.6Zm1.656-6.2-.72.736A2.723,2.723,0,0,0,11.8,13.4H10.2V13a3.22,3.22,0,0,1,.936-2.264l.992-1.008A1.564,1.564,0,0,0,12.6,8.6a1.6,1.6,0,1,0-3.2,0H7.8a3.2,3.2,0,1,1,6.4,0A2.546,2.546,0,0,1,13.456,10.4Z" transform="translate(64 553)" fill="#33373e"/>
+    <g id="Rectangle_2514" data-name="Rectangle 2514" transform="translate(55 544)" fill="none" stroke="#33373e" stroke-width="1">
+      <rect width="40" height="40" rx="10" stroke="none"/>
+      <rect x="0.5" y="0.5" width="39" height="39" rx="9.5" fill="none"/>
+    </g>
+  </g>
+</svg>

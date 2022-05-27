@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="17.759" viewBox="0 0 18 17.759">
+  <g id="sensor" transform="translate(-262 -912)">
+    <rect id="Rectangle_2841" data-name="Rectangle 2841" width="11.123" height="10.882" rx="1" transform="translate(265.494 915.494)" fill="#767677"/>
+    <g id="Path_4511" data-name="Path 4511" transform="translate(268.02 917.932)" fill="none">
+      <path d="M1,0H5A1,1,0,0,1,6,1V5A1,1,0,0,1,5,6H1A1,1,0,0,1,0,5V1A1,1,0,0,1,1,0Z" stroke="none"/>
+      <path d="M 1.25 1.25 L 1.25 4.75 L 4.75 4.75 L 4.75 1.25 L 1.25 1.25 M 1 0 L 5 0 C 5.552279949188232 0 6 0.4477200508117676 6 1 L 6 5 C 6 5.552279949188232 5.552279949188232 6 5 6 L 1 6 C 0.4477200508117676 6 0 5.552279949188232 0 5 L 0 1 C 0 0.4477200508117676 0.4477200508117676 0 1 0 Z" stroke="none" fill="#ececef"/>
+    </g>
+    <path id="Rectangle_2851" data-name="Rectangle 2851" d="M.567,0h0a.567.567,0,0,1,.567.567v3.06a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V.567A.567.567,0,0,1,.567,0Z" transform="translate(268.01 912)" fill="#767677"/>
+    <path id="Rectangle_2848" data-name="Rectangle 2848" d="M0,0H1.133a0,0,0,0,1,0,0V3.06a.567.567,0,0,1-.567.567h0A.567.567,0,0,1,0,3.06V0A0,0,0,0,1,0,0Z" transform="translate(268.01 926.132)" fill="#767677"/>
+    <path id="Rectangle_2845" data-name="Rectangle 2845" d="M.567,0h0a.567.567,0,0,1,.567.567v3.06a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V.567A.567.567,0,0,1,.567,0Z" transform="translate(270.53 912)" fill="#767677"/>
+    <path id="Rectangle_2847" data-name="Rectangle 2847" d="M0,0H1.133a0,0,0,0,1,0,0V3.06a.567.567,0,0,1-.567.567h0A.567.567,0,0,1,0,3.06V0A0,0,0,0,1,0,0Z" transform="translate(270.53 926.132)" fill="#767677"/>
+    <path id="Rectangle_2844" data-name="Rectangle 2844" d="M.567,0h0a.567.567,0,0,1,.567.567v3.06a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V.567A.567.567,0,0,1,.567,0Z" transform="translate(273.051 912)" fill="#767677"/>
+    <path id="Rectangle_2849" data-name="Rectangle 2849" d="M.567,0h0a.567.567,0,0,1,.567.567v3.06a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V.567A.567.567,0,0,1,.567,0Z" transform="translate(280 918.02) rotate(90)" fill="#767677"/>
+    <path id="Rectangle_2855" data-name="Rectangle 2855" d="M0,0H1.133a0,0,0,0,1,0,0V3.06a.567.567,0,0,1-.567.567h0A.567.567,0,0,1,0,3.06V0A0,0,0,0,1,0,0Z" transform="translate(265.626 918.02) rotate(90)" fill="#767677"/>
+    <path id="Rectangle_2853" data-name="Rectangle 2853" d="M.567,0h0a.567.567,0,0,1,.567.567v3.06a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V.567A.567.567,0,0,1,.567,0Z" transform="translate(280 922.988) rotate(90)" fill="#767677"/>
+    <path id="Rectangle_2854" data-name="Rectangle 2854" d="M0,0H1.133a0,0,0,0,1,0,0V3.06a.567.567,0,0,1-.567.567h0A.567.567,0,0,1,0,3.06V0A0,0,0,0,1,0,0Z" transform="translate(265.626 922.988) rotate(90)" fill="#767677"/>
+    <path id="Rectangle_2852" data-name="Rectangle 2852" d="M.567,0h0a.567.567,0,0,1,.567.567v3.06a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V.567A.567.567,0,0,1,.567,0Z" transform="translate(280 920.504) rotate(90)" fill="#767677"/>
+    <path id="Rectangle_2856" data-name="Rectangle 2856" d="M0,0H1.133a0,0,0,0,1,0,0V3.06a.567.567,0,0,1-.567.567h0A.567.567,0,0,1,0,3.06V0A0,0,0,0,1,0,0Z" transform="translate(265.626 920.504) rotate(90)" fill="#767677"/>
+    <path id="Rectangle_2846" data-name="Rectangle 2846" d="M0,0H1.133a0,0,0,0,1,0,0V3.06a.567.567,0,0,1-.567.567h0A.567.567,0,0,1,0,3.06V0A0,0,0,0,1,0,0Z" transform="translate(273.051 926.132)" fill="#767677"/>
+  </g>
+</svg>

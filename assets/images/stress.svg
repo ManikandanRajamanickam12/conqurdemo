@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="29" height="33.592" viewBox="0 0 29 33.592">
+  <g id="stress" transform="translate(1 1.813)">
+    <g id="Ellipse_214" data-name="Ellipse 214" transform="translate(7.445 12.094)" fill="#6dd179" stroke="#6dd179" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+      <ellipse cx="6.055" cy="6.055" rx="6.055" ry="6.055" stroke="none"/>
+      <ellipse cx="6.055" cy="6.055" rx="5.055" ry="5.055" fill="none"/>
+    </g>
+    <path id="Path_1594" data-name="Path 1594" d="M14379.838,2385.142a9.533,9.533,0,0,0-3.781,5.018,12.9,12.9,0,0,0-.633,6.365l6.234-7.25" transform="translate(-14371.887 -2365.745)" fill="none" stroke="#6dd179" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="Path_1595" data-name="Path 1595" d="M14367.778,2404.362h27" transform="translate(-14367.778 -2373.583)" fill="none" stroke="#6dd179" stroke-linecap="round" stroke-width="2"/>
+    <path id="Path_1596" data-name="Path 1596" d="M14378.666,2364.7l-4.619-2.574,2.646-2.126-5.189-2.318" transform="translate(-14370.904 -2351.595)" fill="none" stroke="#6dd179" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="Path_1597" data-name="Path 1597" d="M7.163,0,2.542,2.573,5.19,4.7,0,7.017" transform="translate(18.095 6.015) rotate(149)" fill="none" stroke="#6dd179" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="Path_1598" data-name="Path 1598" d="M7.163,0,2.542,2.573,5.19,4.7,0,7.017" transform="translate(25.78 13.102) rotate(-180)" fill="none" stroke="#6dd179" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="Path_1599" data-name="Path 1599" d="M14376.842,2385.142a9.541,9.541,0,0,1,3.783,5.018,12.888,12.888,0,0,1,.635,6.365l-6.492-7.436" transform="translate(-14358.088 -2365.745)" fill="none" stroke="#6dd179" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>
